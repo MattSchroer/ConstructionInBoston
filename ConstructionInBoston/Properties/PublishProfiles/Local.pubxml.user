@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ConstructionInBoston</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddProject.aspx">
+      <publishTime>12/01/2015 21:35:13</publishTime>
+    </File>
+    <File Include="Architects.aspx">
+      <publishTime>12/01/2015 21:03:48</publishTime>
+    </File>
+    <File Include="Architects/AddArchitect.aspx">
+      <publishTime>12/02/2015 14:21:18</publishTime>
+    </File>
+    <File Include="Architects/ArchitectDetail.aspx">
+      <publishTime>12/02/2015 16:46:03</publishTime>
+    </File>
+    <File Include="Architects/Default.aspx">
+      <publishTime>12/02/2015 13:39:43</publishTime>
+    </File>
+    <File Include="Architects/DeleteArchitect.aspx">
+      <publishTime>12/02/2015 17:37:58</publishTime>
+    </File>
+    <File Include="Architects/UpdateArchitect.aspx">
+      <publishTime>12/02/2015 17:52:18</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>11/16/2015 14:57:27</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>11/16/2015 14:57:28</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>11/16/2015 14:57:28</publishTime>
+    </File>
+    <File Include="bin/ConstructionInBoston.dll">
+      <publishTime>12/02/2015 18:01:48</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>11/16/2015 14:57:32</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>11/16/2015 14:57:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>11/16/2015 14:57:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>11/16/2015 14:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>11/16/2015 14:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>11/16/2015 14:57:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>11/16/2015 14:57:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>11/16/2015 14:57:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/16/2015 14:57:28</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/16/2015 14:57:35</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>11/16/2015 14:57:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>11/16/2015 14:57:28</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>11/16/2015 14:57:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>07/09/2013 11:05:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>07/09/2013 11:05:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>07/09/2013 11:05:12</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>11/16/2015 14:57:27</publishTime>
+    </File>
+    <File Include="Contractors.aspx">
+      <publishTime>12/01/2015 21:04:50</publishTime>
+    </File>
+    <File Include="Contractors/AddContractor.aspx">
+      <publishTime>12/01/2015 23:35:49</publishTime>
+    </File>
+    <File Include="Contractors/ContractorDetail.aspx">
+      <publishTime>12/02/2015 15:49:58</publishTime>
+    </File>
+    <File Include="Contractors/Default.aspx">
+      <publishTime>12/02/2015 13:37:53</publishTime>
+    </File>
+    <File Include="Contractors/DeleteContractor.aspx">
+      <publishTime>12/02/2015 17:41:31</publishTime>
+    </File>
+    <File Include="Contractors/UpdateContractor.aspx">
+      <publishTime>12/02/2015 17:57:36</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.css">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.css.map">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css.map">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css.map">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="css/cover.css">
+      <publishTime>12/01/2015 20:11:35</publishTime>
+    </File>
+    <File Include="css/ie10-viewport-bug-workaround.css">
+      <publishTime>11/30/2015 19:03:14</publishTime>
+    </File>
+    <File Include="css/offcanvas.css">
+      <publishTime>11/30/2015 19:22:13</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/01/2015 23:47:44</publishTime>
+    </File>
+    <File Include="DeleteProject.aspx">
+      <publishTime>11/30/2015 19:40:56</publishTime>
+    </File>
+    <File Include="Developers.aspx">
+      <publishTime>12/01/2015 21:04:31</publishTime>
+    </File>
+    <File Include="Developers/AddDeveloper.aspx">
+      <publishTime>12/01/2015 23:42:43</publishTime>
+    </File>
+    <File Include="Developers/Default.aspx">
+      <publishTime>12/02/2015 13:40:10</publishTime>
+    </File>
+    <File Include="Developers/DeleteDeveloper.aspx">
+      <publishTime>12/02/2015 17:43:29</publishTime>
+    </File>
+    <File Include="Developers/DeveloperDetail.aspx">
+      <publishTime>12/02/2015 15:49:23</publishTime>
+    </File>
+    <File Include="Developers/UpdateDeveloper.aspx">
+      <publishTime>12/02/2015 18:00:06</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>11/16/2015 14:57:19</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/30/2015 18:52:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/30/2015 18:52:33</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/30/2015 18:52:33</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/30/2015 18:52:33</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>11/30/2015 18:52:25</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/16/2015 14:57:19</publishTime>
+    </File>
+    <File Include="images/boston_millennium-tower.jpg">
+      <publishTime>12/01/2015 20:12:50</publishTime>
+    </File>
+    <File Include="images/building.jpg">
+      <publishTime>12/01/2015 00:46:43</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>12/01/2015 22:48:48</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/16/2015 14:57:37</publishTime>
+    </File>
+    <File Include="ProjectDetail.aspx">
+      <publishTime>12/01/2015 20:17:43</publishTime>
+    </File>
+    <File Include="Projects.aspx">
+      <publishTime>12/01/2015 21:03:23</publishTime>
+    </File>
+    <File Include="Projects/AddProject.aspx">
+      <publishTime>12/02/2015 13:53:38</publishTime>
+    </File>
+    <File Include="Projects/Default.aspx">
+      <publishTime>12/02/2015 13:35:14</publishTime>
+    </File>
+    <File Include="Projects/DeleteProject.aspx">
+      <publishTime>12/02/2015 17:38:20</publishTime>
+    </File>
+    <File Include="Projects/ProjectDetail.aspx">
+      <publishTime>12/02/2015 15:57:41</publishTime>
+    </File>
+    <File Include="Projects/UpdateProject.aspx">
+      <publishTime>12/02/2015 15:09:31</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/16/2015 14:57:27</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/16/2015 14:57:27</publishTime>
+    </File>
+    <File Include="Scripts/ie-emulation-modes-warning.js">
+      <publishTime>11/30/2015 19:03:50</publishTime>
+    </File>
+    <File Include="Scripts/ie10-viewport-bug-workaround.js">
+      <publishTime>11/30/2015 19:04:02</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>11/16/2015 14:57:25</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>11/16/2015 14:57:25</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>11/16/2015 14:57:25</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>11/16/2015 14:57:26</publishTime>
+    </File>
+    <File Include="Scripts/offcanvas.js">
+      <publishTime>11/30/2015 19:22:00</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>11/16/2015 14:57:26</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>11/16/2015 14:57:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>11/16/2015 14:57:29</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>11/30/2015 19:22:38</publishTime>
+    </File>
+    <File Include="UpdateProject.aspx">
+      <publishTime>12/01/2015 19:55:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/01/2015 01:22:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
