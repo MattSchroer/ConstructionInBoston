@@ -6,7 +6,7 @@ namespace ConstructionInBoston.Projects
 {
     public partial class DeleteProject : System.Web.UI.Page
     {
-        protected string Id = string.Empty;
+        protected static string Id = string.Empty;
 
         protected void Page_Load(object sender, EventArgs e)
         {

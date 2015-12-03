@@ -6,7 +6,7 @@ namespace ConstructionInBoston.Developers
 {
     public partial class DeleteDeveloper : System.Web.UI.Page
     {
-        protected string Id = string.Empty;
+        protected static string Id = string.Empty;
 
         protected void Page_Load(object sender, EventArgs e)
         {
